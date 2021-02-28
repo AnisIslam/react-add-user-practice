@@ -1,0 +1,14 @@
+.user{
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    
+   
+    
+}
+.user h1{
+    color: blue;
+}
+.user button{
+    background-color: orange;
+    padding: 5px;
+}
